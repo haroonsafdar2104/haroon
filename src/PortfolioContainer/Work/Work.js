@@ -41,14 +41,15 @@ export default function Work(props){
          </span>
          <span>Brands & Clients</span>
          <spane>
-           Lorem ispum is simpley dummy text of printing of printing Lorem
+         I have been working as a freelancer for the last two years and I have
            <br />
-           ispum is simpley dummy text of printingLorem ispum dummy
-           text
+           total 6 years of professional experience. Maintaining a steady cash
            <br />
-           y dummy text of printingLorem text of printing of printing of those
+           inflow is the biggest challenge. Till the time you are able to build long
            <br />
-           ispum is simpley dummy text of printing
+           term relationship with a client, everything is very uncertain. I have been
+           <br />
+           very lucky in this regards. I am currently working with two clients.
          </spane>
          <Link to="Contact" smooth={true} spy={true}>
            <button className="button s-button">Hire Me</button>

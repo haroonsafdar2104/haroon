@@ -58,7 +58,7 @@ export default function ContactMe(props){
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +1 1234 556 75
+              +92 309 4668617
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
@@ -66,7 +66,7 @@ export default function ContactMe(props){
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              245 King Street, Touterie Victoria 8520 Australia
+              Islamabad, Pakistan
             </div>
           </div>
         </div>

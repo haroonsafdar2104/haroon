@@ -1,0 +1,27 @@
+{
+  "name": "bullet-request",
+  "version": "1.3.2",
+  "description": "xmlhttprequest module",
+  "main": "http-request.js",
+  "typings": "http-request.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BulletYuan/bulletHttpRequest/tree/master/js"
+  },
+  "keywords": [
+    "js",
+    "http-request",
+    "xmlhttp",
+    "ajax"
+  ],
+  "author": "bullet.Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BulletYuan/bulletHttpRequest/issues"
+  },
+  "homepage": "https://github.com/BulletYuan/bulletHttpRequest/tree/master/js#readme",
+  "dependencies": {}
+}

@@ -3,7 +3,8 @@
   position:relative;
   min-height: fit-content;
   display: flex;
-  margin: 10rem ;
+  margin: 8rem ;
+
 }
 
 .c-bg {
@@ -104,7 +105,7 @@ button {
   .c {
     margin: 1rem ;
     height: 80vh;
-    margin-bottom: 0rem;
+    margin-top: 0rem;
     
   }
 }
@@ -118,6 +119,7 @@ button {
 
   .c-title {
     font-size: 30px;
+    width: 116%;
   }
 
   .c-info-item {

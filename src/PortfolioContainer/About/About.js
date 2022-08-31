@@ -12,13 +12,13 @@ export default function AboutMe(props){
   const fadeInSubscription = ScrollService.currentScreenFadeIn.subscribe(fadeInScreenHandler);
   const SCREEN_CONSTSANTS = {
     description:
-      "I am a Computer Scientist who just graduated from the premier IT university COMSATS University Islamabad in Computer Science Majors. I am a highly skilled professional developer who loves to take on the challenges and then solve them. Backend web and mobile developer with background knowledge of Php and java, along with a knack of building applications with utmost efficiency. Willing to be an asset for an organization.",
+      "I am a Computer Scientist who just graduated from the premier IT university COMSATS University Islamabad in Computer Science Majors. I am a highly skilled professional developer who loves to take on the challenges and then solve them. Backend web with background knowledge of node js and front-end web with background knowledge of react js, along with a knack of building applications with utmost efficiency. Willing to be an asset for an organization.",
     highlights: {
       bullets: [
         "Backend web and application development",
-        "Php, html, css",
-        "React and React Native",
-        "Java Development",
+        "Bootstrap, html, css",
+        "React and Node js",
+        "MERN Development",
         "Managing database",
       ],
       heading: "Here are a Few Highlights:",

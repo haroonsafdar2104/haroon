@@ -53,13 +53,13 @@ export default function Resume(props){
         
           //here we have
           const programmingSkillsDetails = [
-            { skill: "JavaScript", ratingPercentage: 50 },
-            { skill: "React JS", ratingPercentage: 50 },
-            { skill: "React Native", ratingPercentage: 30 },
-            { skill: "Express JS", ratingPercentage: 30 },
-            { skill: "Node JS", ratingPercentage: 30 },
-            { skill: "HTML", ratingPercentage: 80 },
-            { skill: "PHP", ratingPercentage: 50 },
+            { skill: "JavaScript", ratingPercentage: 70 },
+            { skill: "React JS", ratingPercentage: 70 },
+            { skill: "Databases", ratingPercentage: 90 },
+            { skill: "Express JS", ratingPercentage: 80 },
+            { skill: "Node JS", ratingPercentage: 70 },
+            { skill: "HTML", ratingPercentage: 90 },
+            { skill: "Bootstrap", ratingPercentage: 70 },
             { skill: "CSS", ratingPercentage: 80 },
           ];
         
@@ -77,30 +77,30 @@ export default function Resume(props){
               description:
                 "Online ecommerce website for showcasing and selling products onlne with payment system integration",
               subHeading:
-                "Technologies Used: HTML, CSS, PHP, Bootstrap.",
+                "Technologies Used: HTML, CSS, Node js, Bootstrap.",
             },
           ];
         
           const resumeDetails = [
             <div className="resume-screen-container" key="education">
               <ResumeHeading
-                heading={"Bataan Heroes College"}
-                subHeading={"BACHELOR OF SCIENCE INFORMATION TECHNOLOGY"}
-                fromDate={"2018"}
-                toDate={"2022"}
+                heading={"COMSATS University"}
+                subHeading={"BACHELOR OF SCIENCE IN COMPUTER SCIENCE"}
+                fromDate={"2020"}
+                toDate={"2024"}
               />
         
               <ResumeHeading
-                heading={"Bagac National HighSchool"}
-                subHeading={"HighSchool"}
-                fromDate={"2011"}
-                toDate={"2015"}
+                heading={"Superior College"}
+                subHeading={"Intermediate of Computer Science"}
+                fromDate={"2018"}
+                toDate={"2020"}
               />
               <ResumeHeading
-                heading={"Parang Elementary School "}
-                subHeading={"Elementary"}
+                heading={"Allied School "}
+                subHeading={"Elementary and HighSchool"}
                 fromDate={"2006"}
-                toDate={"2011"}
+                toDate={"2018"}
               />
             </div>,
         
@@ -109,13 +109,13 @@ export default function Resume(props){
               <div className="experience-container">
                 <ResumeHeading
                   heading={"Freelance"}
-                  subHeading={"JAVA DEVELOPER"}
+                  subHeading={"MERN DEVELOPER"}
                   fromDate={"2021"}
                   toDate={"2022"}
                 />
                 <div className="experience-description">
                   <span className="resume-description-text">
-                    Work as a JAVA programmer
+                    Work as a Front-end and Back-end programmer
                   </span>
                 </div>
               </div>

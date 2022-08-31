@@ -3,10 +3,7 @@
   justify-content: center;
   height: 120px;
   color: var(--white);
-  
-  
-  
-  
+ 
 }
 .header-parent {
   display: flex;
@@ -62,6 +59,10 @@ white-space: nowrap;
 @media only screen and (max-width: 1110px) {
   header-parent {
    width: 80%;
+
+  }
+  .header-options {
+    width: 50%;
   }
   
 }
@@ -81,10 +82,10 @@ white-space: nowrap;
     left: -100%;
     transition: all 0.8s ease-out;
     top: 0px;
-    height: 100vh;
+    height: 40vh;
     width: 100%;
     justify-content: space-around;
-    background-color: #1f2235;
+    background-color: #1f2235e8;
     z-index: 1000;
     opacity: 0.5;
   }

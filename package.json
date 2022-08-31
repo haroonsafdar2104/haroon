@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://haroonsafdar2104.github.io/haroon",
   "proxy": "http://localhost:5000",
   "version": "0.1.0",
   "private": true,
@@ -14,13 +15,14 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
-    "bootstrap": "^5.1.3",
+    "bootstrap": "^5.2.0",
     "bullet-request": "^1.3.2",
     "emailjs-com": "^3.2.0",
     "framer-motion": "^7.2.1",
+    "gh-pages": "^4.0.0",
     "nodemailer": "^6.7.8",
     "react": "^18.0.0",
-    "react-bootstrap": "^2.2.3",
+    "react-bootstrap": "^2.5.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
     "react-scroll": "^1.8.7",
@@ -40,7 +42,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

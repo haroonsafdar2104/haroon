@@ -39,7 +39,7 @@ function Profile() {
                             {" "}
                             <Typical
                             steps = {[
-                                "Php Dev 😎",1000,
+                                "Front-end Dev 😎",1000,
                                 "React Dev 🌐",1000,
                                 "Java Dev 📱",1000,
                                 "Back-end Dev 💻",1000,
@@ -59,7 +59,7 @@ function Profile() {
                             LinkedIn
                         </button>
                         </a>
-                        <a href ='ArthurCloresCV.pdf' download='ArthurCloresCV.pdf'>
+                        <a href ='https://github.com/haroonsafdar2104'>
                             <button type="button" className='btn highlighted-btn '>
                                
                                 Github

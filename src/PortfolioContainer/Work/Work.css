@@ -4,6 +4,7 @@
     height: 90vh;
     margin-top: -7rem;
     
+    
   
     /* scroll */
     align-items: center;
@@ -135,7 +136,15 @@
       gap: 5rem;
       margin-top:6rem ;
     }
-  
+    .s-button {
+      margin-left: 120px;
+    }
+    .awesome {
+      margin-left: 20px;
+    }
+    .awesome > :nth-child(3) {
+      text-align:center;
+    }
     .w-right {
       display: flex;
       align-items: flex-start;
