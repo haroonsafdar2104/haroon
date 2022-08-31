@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/haroon/static/css/main.f1246c27.css",
-    "main.js": "/haroon/static/js/main.16e50248.js",
+    "main.css": "/haroon/static/css/main.c3cf0b4a.css",
+    "main.js": "/haroon/static/js/main.826cbd13.js",
     "static/js/787.c4e7f8f9.chunk.js": "/haroon/static/js/787.c4e7f8f9.chunk.js",
     "static/media/me.gif": "/haroon/static/media/me.57631dd5e24d0328a0ad.gif",
-    "static/media/profilephoto.jpg": "/haroon/static/media/profilephoto.0696a59b3ddf661719cb.jpg",
+    "static/media/photoo.png": "/haroon/static/media/photoo.e7953889c7295de4e7fb.png",
     "static/media/portt.png": "/haroon/static/media/portt.7709f2a7f2a474533cb1.png",
     "static/media/taxi.png": "/haroon/static/media/taxi.369192075b95e5d9f004.png",
     "static/media/ecommerce.png": "/haroon/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/haroon/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/musicapp.png": "/haroon/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/picc.jpg": "/haroon/static/media/picc.4a09dd3c8c45924f3b15.jpg",
     "static/media/Poppins-Thin.ttf": "/haroon/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/haroon/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
     "static/media/Poppins-Regular.ttf": "/haroon/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
@@ -29,12 +30,12 @@
     "static/media/interests.svg": "/haroon/static/media/interests.809890a3e4fb0938f61b.svg",
     "static/media/education.svg": "/haroon/static/media/education.74cd8f75f77de2003de4.svg",
     "static/media/work-history.svg": "/haroon/static/media/work-history.a566475dedb99dea4bb8.svg",
-    "main.f1246c27.css.map": "/haroon/static/css/main.f1246c27.css.map",
-    "main.16e50248.js.map": "/haroon/static/js/main.16e50248.js.map",
+    "main.c3cf0b4a.css.map": "/haroon/static/css/main.c3cf0b4a.css.map",
+    "main.826cbd13.js.map": "/haroon/static/js/main.826cbd13.js.map",
     "787.c4e7f8f9.chunk.js.map": "/haroon/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1246c27.css",
-    "static/js/main.16e50248.js"
+    "static/css/main.c3cf0b4a.css",
+    "static/js/main.826cbd13.js"
   ]
 }
