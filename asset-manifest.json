@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/haroon/static/css/main.826b2376.css",
-    "main.js": "/haroon/static/js/main.85232b1a.js",
+    "main.css": "/haroon/static/css/main.d7bd2840.css",
+    "main.js": "/haroon/static/js/main.1c467fa0.js",
     "static/js/787.c4e7f8f9.chunk.js": "/haroon/static/js/787.c4e7f8f9.chunk.js",
     "static/media/me.gif": "/haroon/static/media/me.57631dd5e24d0328a0ad.gif",
     "static/media/photoo.png": "/haroon/static/media/photoo.e7953889c7295de4e7fb.png",
@@ -30,12 +30,12 @@
     "static/media/interests.svg": "/haroon/static/media/interests.809890a3e4fb0938f61b.svg",
     "static/media/education.svg": "/haroon/static/media/education.74cd8f75f77de2003de4.svg",
     "static/media/work-history.svg": "/haroon/static/media/work-history.a566475dedb99dea4bb8.svg",
-    "main.826b2376.css.map": "/haroon/static/css/main.826b2376.css.map",
-    "main.85232b1a.js.map": "/haroon/static/js/main.85232b1a.js.map",
+    "main.d7bd2840.css.map": "/haroon/static/css/main.d7bd2840.css.map",
+    "main.1c467fa0.js.map": "/haroon/static/js/main.1c467fa0.js.map",
     "787.c4e7f8f9.chunk.js.map": "/haroon/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.826b2376.css",
-    "static/js/main.85232b1a.js"
+    "static/css/main.d7bd2840.css",
+    "static/js/main.1c467fa0.js"
   ]
 }
