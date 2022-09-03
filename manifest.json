@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Haroon Website",
   "name": "Welcome...!",
   "icons": [
     {
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "favicon.ico",
+      "src": "favico.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
