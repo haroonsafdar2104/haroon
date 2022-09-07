@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/haroon/static/css/main.ee73bc3e.css",
-    "main.js": "/haroon/static/js/main.85ceaabe.js",
+    "main.js": "/haroon/static/js/main.6870edab.js",
     "static/js/787.c4e7f8f9.chunk.js": "/haroon/static/js/787.c4e7f8f9.chunk.js",
     "static/media/me.gif": "/haroon/static/media/me.57631dd5e24d0328a0ad.gif",
     "static/media/photoo.png": "/haroon/static/media/photoo.e7953889c7295de4e7fb.png",
@@ -24,18 +24,18 @@
     "static/media/address.png": "/haroon/static/media/address.a01cb8cc428702f30bec.png",
     "static/media/email.png": "/haroon/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/phone.png": "/haroon/static/media/phone.d90a6d23cf5129d853bb.png",
-    "index.html": "/haroon/index.html",
     "static/media/programming-skills.svg": "/haroon/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "index.html": "/haroon/index.html",
     "static/media/projects.svg": "/haroon/static/media/projects.2b352a52b0588dab62f5.svg",
     "static/media/interests.svg": "/haroon/static/media/interests.809890a3e4fb0938f61b.svg",
     "static/media/education.svg": "/haroon/static/media/education.74cd8f75f77de2003de4.svg",
     "static/media/work-history.svg": "/haroon/static/media/work-history.a566475dedb99dea4bb8.svg",
     "main.ee73bc3e.css.map": "/haroon/static/css/main.ee73bc3e.css.map",
-    "main.85ceaabe.js.map": "/haroon/static/js/main.85ceaabe.js.map",
+    "main.6870edab.js.map": "/haroon/static/js/main.6870edab.js.map",
     "787.c4e7f8f9.chunk.js.map": "/haroon/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee73bc3e.css",
-    "static/js/main.85ceaabe.js"
+    "static/js/main.6870edab.js"
   ]
 }
